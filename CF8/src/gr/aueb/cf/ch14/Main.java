@@ -10,5 +10,7 @@ public class Main {
         CodingFactory cf1 = CodingFactory.getInstance();
         CodingFactory cf2 = CodingFactory.getInstance();
         CodingFactory cf3 = CodingFactory.getInstance();
+
+        //δεν δημιουργούνται 3 instances , δημιουργείται το ίδιο instance 3 φορές , αυτό είναι το νόημα του singleton
     }
 }

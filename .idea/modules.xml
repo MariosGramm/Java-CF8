@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CF8/CF8.iml" filepath="$PROJECT_DIR$/CF8/CF8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingFactoryTestbed/CodingFactoryTestbed.iml" filepath="$PROJECT_DIR$/CodingFactoryTestbed/CodingFactoryTestbed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-CF8.iml" filepath="$PROJECT_DIR$/.idea/Java-CF8.iml" />
+    </modules>
+  </component>
+</project>
